@@ -1,0 +1,48 @@
+ul {
+  margin: auto;
+  margin-bottom: 60px;
+  padding: 0;
+}
+
+a.info {
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid gainsboro;
+  color: black;
+  cursor: pointer;
+  display: flex;
+  margin: 10px 3%;
+  text-decoration: none;
+}
+
+img.avatar {
+  width: 72px;
+  height: 72px;
+  margin: 8px;
+}
+
+div.text {
+  text-align: left;
+  margin: auto 0;
+  overflow: auto;
+}
+
+h2.title {
+  font-size: 16px;
+  margin: 0;
+}
+
+p.description {
+  color: grey;
+  font-size: 14px;
+  margin: 0;
+}
+
+p.arrow {
+  color: grey;
+  font-size: 14px;
+  font-weight: 300;
+  margin: auto;
+  margin-right: 10px;
+  padding: 10px;
+}

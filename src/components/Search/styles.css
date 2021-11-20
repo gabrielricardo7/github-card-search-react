@@ -1,0 +1,31 @@
+form {
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  padding: 20px 10px;
+}
+
+input {
+  border-style: none;
+  border-radius: 10px 0 0 10px;
+  border: 1px solid gainsboro;
+  font-size: 14px;
+  padding: 1px 8px;
+  width: -webkit-fill-available;
+}
+
+button {
+  background-color: #0278f9;
+  border-style: none;
+  border-radius: 0 10px 10px 0;
+  border: 1px solid gainsboro;
+  color: white;
+  font-size: 14px;
+  font-weight: 700;
+  width: 128px;
+}
+
+button:hover {
+  background-color: #0060ca;
+  cursor: pointer;
+}
